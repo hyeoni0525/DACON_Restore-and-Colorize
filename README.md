@@ -1,4 +1,5 @@
 # DACON-이미지 색상화 및 손실 부분 복원 AI 경진대회
+![image](https://github.com/user-attachments/assets/a6a29b5c-047c-4b78-a555-b0c25df79721)
 
 ## image inpainting
 ![image](https://github.com/user-attachments/assets/d6c3e9f8-7478-4477-a536-8926ab9a1606)
