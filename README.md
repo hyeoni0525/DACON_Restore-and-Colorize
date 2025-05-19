@@ -28,6 +28,19 @@
 ---
 ## 사용 모델
 U-Net + PatchGAN
+<br>
+
+U-Net:
+
+- 이미지 복원 및 생성 - 손상된 이미지 복구(Colorization 및 Loss Restoration)에 적합
+
+- 해상도 보존 - 고해상도 이미지에 대해 정보를 손실하지 않고 복구 가능
+
+PatchGAN:
+
+- Fine-Grained Analysis - 각 패치별로 진짜/가짜 여부를 학습해 세부적인 복원 품질 향상 가능
+
+- Adversarial Loss 제공 - Generator가 더 사실적인 이미지를 생성하도록 유도
 
 ---
 ## Train
