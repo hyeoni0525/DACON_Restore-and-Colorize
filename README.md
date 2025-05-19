@@ -29,9 +29,6 @@
 ## 사용 모델
 U-Net + PatchGAN
 
-![스크린샷 2024-12-09 214630](https://github.com/user-attachments/assets/64d7b2fd-fec1-4f0a-be5c-7795652ca1c4)
-![image](https://github.com/user-attachments/assets/5c665c1e-4a0f-439d-a23b-9ef1f3f242d5)
-
 ---
 ## Train
 ![image](https://github.com/user-attachments/assets/6033e4ed-ae77-44c2-93f6-540027276711)
@@ -54,15 +51,13 @@ Optimizer, LR, betas(모멘텀)를 각각 조절해보았을 때 Optimizer는 **
 
 ---
 ## Award
-### 2024.12.09 기준 649명 중 public 7등 private 8등 ranking chart 5등
+### 2024.12.09 기준 649명 중 public 7등 private 8등
 public
 ![image](https://github.com/user-attachments/assets/238d28a7-634d-49df-8943-4291dd96de30)
 
 private
 ![image](https://github.com/user-attachments/assets/c8298d86-ecd3-4095-8d4b-4c4e470a004e)
 
-ranking chart
-![newplot](https://github.com/user-attachments/assets/2582ca81-f803-44b0-ae6e-ea7024f1c8bc)
 
 
 
